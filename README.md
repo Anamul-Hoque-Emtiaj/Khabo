@@ -44,28 +44,31 @@ comprehensive feature set:
   - Detects ingredient shortages and recommends suitable substitutes.
 
 ## Requirement Analysis using BPMN Diagram
-- [BPMN Diagram]()
+- [BPMN Diagram](/diagrams/)
 
 ## MOCK UI
-- [MOCK UI]()
+- [MOCK UI](/diagrams/)
 
 ## Class Diagram
-- [Class Diagram]()
+- [Class Diagram](/diagrams/KHABO_CLASS_DIAGRAM.pdf)
 
 ## ER Diagram
-- [ER Diagram]()
+- [ER Diagram](/diagrams/KHABO_ERD.pdf)
 
 ## Sequence Diagram
-- [Sequence Diagram]()
+- [Sequence Diagram](/diagrams/)
 
 ## Collaboration Diagram
-- [Collaboration Diagram]()
+- [Collaboration Diagram](/diagrams/)
 
 ## State Diagram
-- [State Diagram]()
+- [State Diagram](/diagrams/)
   
 ## Implementation of Modules
 - [Frontend]()
-- [Backend]()
+- [Backend](/backend/)
+
+## Project Report
+- [Report](/Report%20|%20KHABO%20-%20Your%20Culinary%20Companion.pdf)
 
 
