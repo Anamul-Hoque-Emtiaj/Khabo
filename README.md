@@ -1,2 +1,71 @@
-# Khabo
-A comprehensive culinary application, developed as part of the CSE 326: Information System Design course.
+# KHABO - Your Culinary Companion
+
+- A multifaceted project that encompasses various modules, each meticulously designed to cater to the diverse needs of culinary enthusiasts
+and home cooks.
+
+## Motivation
+In today’s fast-paced world, where convenience often takes precedence over
+health and financial considerations, the habit of cooking at home has been
+gradually eroding. The convenience of ordering food from outside restaurants
+or opting for ready-made meals has become the norm, leading to several con-
+cerning issues. To address these concerns, we have undertaken the development
+of a software project, ”KHABO” aimed at promoting and facilitating home
+cooking. Our motivation behind this project can be succinctly summarized in
+the following key points:
+- Health and Hygiene Concerns
+- Economic Benefits
+- Culinary Exploration and Creativity
+- Sustainable Living
+- Ingredient Sourcing Efficiency
+
+## System Overview
+
+KHABO is a multifaceted project that encompasses various modules, each
+meticulously designed to cater to the diverse needs of culinary enthusiasts and
+home cooks. Here is an overview of the modules that will constitute KHABO’s
+comprehensive feature set:
+
+- Ingredient Scraper Module
+  - Manually curates a list of websites for ingredient purchases.
+  - Extracts data about ingredient type, name, and unit price.
+  - Regularly updates the data to ensure accurate pricing information.
+- Recipe Storage Module
+  - Scrapes recipes along with ingredients and stores them in a database.
+  - Accepts community-generated recipes for a diverse recipe collection.
+- Cheapest Ingredient Module
+  - Provides a list of shops selling a specific ingredient.
+  - Calculates the total cost intelligently, considering factors such as availability, discounts, and delivery time.
+- Ingredients to Recipe Module
+  - Analyzes available ingredients and suggests suitable recipes.
+- Recipe Visualizer Module
+  - Presents recipes in an appealing and user-friendly manner.
+  - Includes step-by-step instructions and visual aids to enhance cooking experiences.
+- Smart Ingredient Replacement Module
+  - Detects ingredient shortages and recommends suitable substitutes.
+
+## Requirement Analysis using BPMN Diagram
+- [BPMN Diagram]()
+
+## MOCK UI
+- [MOCK UI]()
+
+## Class Diagram
+- [Class Diagram]()
+
+## ER Diagram
+- [ER Diagram]()
+
+## Sequence Diagram
+- [Sequence Diagram]()
+
+## Collaboration Diagram
+- [Collaboration Diagram]()
+
+## State Diagram
+- [State Diagram]()
+  
+## Implementation of Modules
+- [Frontend]()
+- [Backend]()
+
+
