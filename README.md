@@ -3,6 +3,14 @@
 - A multifaceted project that encompasses various modules, each meticulously designed to cater to the diverse needs of culinary enthusiasts
 and home cooks.
 
+## Team Members
+- Md. Raihan Sobhan : 1905095
+- Rayan Islam : 1905106
+- Md. Labid AL Nahiyan : 1905110
+- Zarif Ikram : 1905111
+- Anamul Hoque Emtiaj : 1905113
+- Sk. Saifullah Hafiz : 1905114
+
 ## Motivation
 In today’s fast-paced world, where convenience often takes precedence over
 health and financial considerations, the habit of cooking at home has been
