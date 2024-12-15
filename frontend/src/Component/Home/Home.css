@@ -1,0 +1,44 @@
+.home_container
+{
+    width: 100%;
+    min-height: 100vh; 
+}
+.feature-show-container
+{
+    background-color: #9FDBF8;
+    padding: 10px;
+}
+.single-feature
+{
+    background-color: #9FDBF8;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 30px;
+
+}
+.title_data{
+    color:#47B5ED;
+    font-weight:bolder;
+    font-size:55px;
+}
+.features-row
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#root {
+    /* max-width: 1280px;  */
+    width: 100%;
+    margin: 0 ;
+    text-align: center;
+}
+.home_scroll
+{
+    margin-top: 30px;
+}
+.home_scroll_header h1
+{
+    font-weight:bolder;
+    font-size:50px;
+}
