@@ -77,6 +77,6 @@ comprehensive feature set:
 - [Backend](/backend/)
 
 ## Project Report
-- [Report](/Report%20|%20KHABO%20-%20Your%20Culinary%20Companion.pdf)
+- [Report](/Report_KHABO_Your_Culinary_Companion.pdf)
 
 
